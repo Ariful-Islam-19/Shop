@@ -1,0 +1,93 @@
+
+link:      https://itpresent.com/web/css/css_font-family_list.php
+
+
+
+
+
+
+
+
+
+IT PRESENT
+CSS list default font-family - Examples
+HTML CSS JAVASCRIPT JQUERY PHP
+There are many types of fonts but not all are enabled on all browsers and computers.
+CSS provides a system of fallbacks, where you list the font that you want first, then fonts that might fill in for the first if it is unavailable, and you should end the list with a generic font, of which there are five: serif, sans-serif, monospace, cursive and fantasy.
+
+CSS font-family list - Examples
+font-family: Times New Roman       font-family: "Times New Roman", Times, serif;
+
+font-family: Arial       font-family: "Arial", Times, serif;
+
+font-family: Arial Black       font-family: "Arial Black", Times, serif;
+
+font-family: Comic Sans MS       font-family: "Comic Sans MS", Times, serif;
+
+font-family: Constantia       font-family: "Constantia", Times, serif;
+
+font-family: Courier       font-family: "Courier", Times, serif;
+
+font-family: Ebrima       font-family: "Ebrima", Times, serif;
+
+font-family: Impact       font-family: "Impact", Times, serif;
+
+font-family: Ink Free       font-family: "Ink Free", Times, serif;
+
+font-family: Microsoft Himalaya       font-family: "Microsoft Himalaya", Times, serif
+
+font-family: Small Fonts       font-family: "Small Fonts", Times, serif;
+
+font-family: Gabriola       font-family: "Gabriola", Times, serif;
+
+font-family: Cursive       font-family: "Cursive", Times, serif;
+
+font-family: Verdana       font-family: "Verdana", Times, serif;
+
+font-family: MV Boli       font-family: "MV Boli", Times, serif;
+
+font-family: Mongolian Baliti       "Mongolian Baliti", Times, serif;
+
+font-family: Microsoft Himalaya       font-family: "Microsoft Himalaya", Times, serif;
+
+font-family: Bahnschrift       font-family: "Bahnschrift", Times, serif;
+
+font-family: Bahnschrift Condendsed       font-family: "Bahnschrift Condendsed"
+
+font-family: Lucida Sans       font-family: "Lucida Sans"
+
+font-family: MS Gothic       font-family: "Ink Free", Times, serif;
+
+font-family: Marlett       font-family: "Marlett"
+
+font-family: Segoe Print       font-family: "Segoe Print", Times, serif;
+
+font-family: NSimSun       font-family: "NSimSun", Times, serif;
+
+font-family: System       font-family: "Bahnschrift", Times, serif;
+
+font-family: Franklin Ghotics Medium       font-family: "Franklin Ghotics Medium", Times, serif;
+
+font-family: Tahoma       font-family: "Tahoma", Times, serif;
+
+ 
+JSFiddle
+
+
+
+
+Similar Posts
+CSS text style - Examples
+All CSS fonts with Examples
+How to import and use Google Fonts
+Google Fonts - Best Examples
+Best Google Fonts - Examples
+Best Google Fonts Examples for Websites
+
+
+
+
+     
+© IT Present          itpresentcontact@gmail.com
+
+
